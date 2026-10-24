@@ -1,11 +1,11 @@
 {
-    "tag_name":  "v1.0.0",
-    "published_at":  "2026-10-21T00:00:00Z",
+    "tag_name":  "v1.0.1",
+    "published_at":  "2026-10-24T00:00:00Z",
     "assets":  [
                    {
                        "name":  "craftkeeper.exe",
-                       "browser_download_url":  "https://github.com/wanaigc/CraftKeeper/releases/download/v1.0.0/craftkeeper.exe",
-                       "digest":  "A4BA73761DC384B2AAE235DC9D4E298B13002EFB0045BB8C180ACC39C90DE2E4"
+                       "browser_download_url":  "https://github.com/wanaigc/CraftKeeper/releases/download/v1.0.1/craftkeeper.exe",
+                       "digest":  "153DD9E1489AB635CC56F4793C41BA58A6F7B193AA96150DA4C4B8DA564B14E3"
                    }
                ]
 }
