@@ -68,6 +68,8 @@ CraftKeeper manages all of the following creative tools from one place:
 
 CraftKeeper checks for new versions automatically: when an update is found, it downloads it quietly in the background, then one click on **Update Now** upgrades the tool — no need to reinstall, and your data stays safe.
 
+> **Important**: v1.0.0 and v1.0.1 have a broken self-update (checking for updates reports an error). If you're on either version, please manually download the latest `craftkeeper.exe` and overwrite the old file. Self-update works again from v1.0.2 onwards.
+
 ## FAQ
 
 - **Why is some product shown as "Not installable"?** The developer hasn't released a Windows installer for this version yet. Once they do, you can install it right from CraftKeeper.
