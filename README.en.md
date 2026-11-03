@@ -63,7 +63,7 @@ CraftKeeper manages all of the following creative tools from one place:
 **Option 1 (recommended)**: Click **Releases** on the right side of this page and download the latest `craftkeeper.exe` (for Windows 64-bit, run directly).
 
 **Option 2 (China mirror, faster)**: Quark Cloud Drive, no sign-up required:
-<https://pan.quark.cn/s/0de3c6bf4519>
+<https://pan.quark.cn/s/c8b540eb536c>
 
 > **System requirements**: Windows 10 / 11 (64-bit). Portable & green — nothing is written to system directories; delete the file to uninstall.
 
