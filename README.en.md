@@ -2,9 +2,9 @@
 
 English | [简体中文](./README.md)
 
-**A Windows desktop installer & updater that manages your favorite \*Craft creative apps in one place — install, update, backup & restore, all automatic.**
+**A Windows & macOS desktop installer & updater that manages your favorite \*Craft creative apps in one place — install, update, backup & restore, all automatic.**
 
-> Portable executable — download and double-click to run, no installation
+> Windows: portable executable, download and double-click to run; macOS: download the dmg and drag CraftKeeper into Applications
 >
 > Completely free. Independent tool, not affiliated with the official teams
 
@@ -19,11 +19,11 @@ Your favorite \*Craft tools — ArtCraft, PhotoCraft, LightCraft and more — ge
 ## Features
 
 - **One-click update check** — automatically checks all products for new versions
-- **Smart install** — picks the right installation method for your Windows system, no need to tell them apart
+- **Smart install** — picks the right installation method for your OS (Windows / macOS), no need to tell them apart
 - **Safe, resumable downloads** — interrupted downloads resume automatically; broken installers are re-downloaded
 - **Auto-backup before upgrading** — one-click restore if anything goes wrong (keeps the last 5 backups)
 - **Batch upgrade** — update all outdated products in one go
-- **Self-updating tool** — downloads new versions in the background, one click to upgrade
+- **Self-updating tool** — downloads new versions in the background, one click to upgrade (Windows & macOS)
 - **Auto-discovery** — newly released \*Craft apps appear automatically
 - **Light/dark theme**, zh/en UI
 
@@ -49,31 +49,44 @@ CraftKeeper manages all of the following creative tools from one place:
 | PdfCraft | PDF reading, organizing & protection |
 | VectorCraft | Vector drawing, lossless & infinitely scalable |
 | TextureCraft | Paint PBR materials on models, bake texture maps |
-| MaterialCraft | Node-based PBR material design with real-time preview |
+| MaterialCraft | Node-based material designer |
 | Craft Anything | Deconstruct how any software works, then rebuild it |
+| PresentCraft | Write your speech in Markdown, design in one click, present or export anywhere |
 
 ## Quick Start
+
+Windows:
 
 1. **Download** `craftkeeper.exe` (see options below)
 2. **Double-click to run** — no installation needed
 3. **Pick a product**: the app lists installable \*Craft tools; click to install or update
 
+macOS:
+
+1. **Download** `craftkeeper.dmg` (see options below)
+2. **Open the dmg** and drag CraftKeeper into **Applications**
+3. If macOS warns "cannot verify the developer" on first launch: **right-click CraftKeeper → Open** (needed only once)
+4. **Pick a product**: apps install into your Applications folder automatically
+
 ## Download
 
-**Option 1 (recommended)**: Click **Releases** on the right side of this page and download the latest `craftkeeper.exe` (for Windows 64-bit, run directly).
+**Option 1 (recommended)**: Click **Releases** on the right side of this page:
+- Windows 64-bit: download the latest `craftkeeper.exe` and run it directly
+- macOS (Intel / Apple Silicon): download the latest `craftkeeper.dmg` and drag it into Applications
 
 **Option 2 (China mirror, faster)**: Quark Cloud Drive, no sign-up required:
 <https://pan.quark.cn/s/c8b540eb536c>
 
-> **System requirements**: Windows 10 / 11 (64-bit). Portable & green — nothing is written to system directories; delete the file to uninstall.
+> **System requirements**: Windows 10 / 11 (64-bit), or macOS. Windows edition is portable & green — nothing is written to system directories; delete the file to uninstall. macOS edition is a standalone app — drag it to the Trash to uninstall.
 
 ## Auto-Update
 
-CraftKeeper checks for new versions automatically: when an update is found, it downloads it quietly in the background, then one click on **Update Now** upgrades the tool — no need to reinstall, and your data stays safe.
+CraftKeeper checks for new versions automatically: when an update is found, it downloads it quietly in the background, then one click on **Update Now** upgrades the tool — no need to reinstall, and your data stays safe (Windows & macOS).
 
 ## FAQ
 
-- **Why is some product shown as "Not installable"?** The developer hasn't released a Windows installer for this version yet. Once they do, you can install it right from CraftKeeper.
+- **Why is some product shown as "Not installable"?** The developer hasn't released an installer for your platform yet (Windows: exe/msi, macOS: dmg/pkg). Once they do, you can install it right from CraftKeeper.
+- **macOS says "cannot verify the developer"?** Right-click CraftKeeper → Open; or go to System Settings → Privacy & Security and click **Open Anyway**. After that, double-click works normally.
 - **Why do I need to install some apps manually?** A few installers don't support fully automatic installation. CraftKeeper keeps the installer and shows you where to run it — this is normal.
 - **Why does checking for updates occasionally fail?** The network can be unstable from time to time — just try again later. If downloads are slow, enable the speed-up option in Settings.
 
