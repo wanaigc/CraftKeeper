@@ -63,7 +63,7 @@ CraftKeeper 支持以下创作软件，一个工具统一管理：
 **方式一（推荐）**：点击页面右侧 **Releases（发布页）**，下载最新版 `craftkeeper.exe`（适用于 Windows 64 位系统，直接运行即用）。
 
 **方式二（国内更快）**：夸克网盘下载，无需注册登录：
-<https://pan.quark.cn/s/0de3c6bf4519>
+<https://pan.quark.cn/s/c8b540eb536c>
 
 > **系统要求**：Windows 10 / 11（64 位）。免安装、绿色便携，不写入系统目录，卸载即删除。
 
