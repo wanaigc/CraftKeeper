@@ -44,10 +44,13 @@ CraftKeeper manages all of the following creative tools from one place:
 | EffectCraft | Motion graphics & visual effects |
 | SoundCraft | Audio recording, mixing & production |
 | GridCraft | Spreadsheet & data analysis |
-| AniCraft | 2D animation & keyframe drawing |
+| AniCraft | 2D animation & keyframe drawing (coming soon, not installable yet) |
 | CADCraft | Engineering drawing & CAD documents |
 | PdfCraft | PDF reading, organizing & protection |
 | VectorCraft | Vector drawing, lossless & infinitely scalable |
+| TextureCraft | Paint PBR materials on models, bake texture maps |
+| MaterialCraft | Node-based PBR material design with real-time preview |
+| Craft Anything | Deconstruct how any software works, then rebuild it |
 
 ## Quick Start
 
@@ -67,8 +70,6 @@ CraftKeeper manages all of the following creative tools from one place:
 ## Auto-Update
 
 CraftKeeper checks for new versions automatically: when an update is found, it downloads it quietly in the background, then one click on **Update Now** upgrades the tool — no need to reinstall, and your data stays safe.
-
-> **Important**: v1.0.0 and v1.0.1 have a broken self-update (checking for updates reports an error). If you're on either version, please manually download the latest `craftkeeper.exe` and overwrite the old file. Self-update works again from v1.0.2 onwards.
 
 ## FAQ
 
