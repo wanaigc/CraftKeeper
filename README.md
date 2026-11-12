@@ -44,7 +44,7 @@ CraftKeeper 支持以下创作软件，一个工具统一管理：
 | EffectCraft | 动效合成 | 制作动态图形，合成视觉特效     |
 | SoundCraft  | 音频制作 | 录制混音音频，产出专业声音     |
 | GridCraft   | 表格处理 | 整理表格数据，生成分析图表     |
-| AniCraft    | 2D 动画  | 绘制关键帧，生成流畅动画（即将推出，暂不可安装） |
+| AniCraft    | 2D 动画  | 绘制关键帧，生成流畅动画 |
 | CADCraft    | 工程制图 | 绘制工程图纸，输出规范图档     |
 | PdfCraft    | PDF 处理 | 阅读整理 PDF，保护文档安全     |
 | VectorCraft | 矢量绘图 | 绘制矢量图形，无损无限缩放     |
@@ -52,6 +52,7 @@ CraftKeeper 支持以下创作软件，一个工具统一管理：
 | MaterialCraft | 材质设计 | 基于节点的材质设计器 |
 | Craft Anything | 软件复刻 | 拆解任意软件工作原理，动手复刻构建 |
 | PresentCraft | 演示文稿 | 用 Markdown 编写演讲稿，一键设计，随时演示或导出 |
+| ShapeCraft | 实体建模 | 草图推拉成实体，导出 STL 直接打印 |
 
 ## 快速开始
 
